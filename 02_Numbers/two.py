@@ -66,3 +66,11 @@ print(setone - {1,2,3,4}) # set() => {} will not come, Bcz: {} disctionary hote 
 # set(): Empty set
 
 print(type({}))
+
+
+# Boolean
+print(True == 1)
+print(False == 0)
+print(True is 1) # False: Inside Memory both are diff object value are same internally
+
+print(True + 1) # 5
